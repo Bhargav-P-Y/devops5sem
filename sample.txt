@@ -1,1 +1,1 @@
-This line of text was from Git Bash
+hello git
