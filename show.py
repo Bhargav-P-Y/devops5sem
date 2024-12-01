@@ -9,6 +9,7 @@ for i in range(n):
     print('WELCOME'.center(m,'-'))
   else:
     print((pat*(2*j+1)).center(m,'-'))
+    j-=1
     
     
   
